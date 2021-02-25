@@ -9,7 +9,7 @@ title: Trudi - How to order
             <h1 class="text-3xl mb-3">Order from Trudi 📦</h1>
             <p class="text-lg">To place an order, please fill out the form to the right and I will get back to you as soon as possible.</p>
         </div>
-        <div class="bg-white py-8 px-10 text-center rounded-md shadow-lg transform -translate-y-20 sm:-translate-y-24 max-w-xs mx-auto">
+        <div class="bg-white py-8 px-10 text-center rounded-md shadow-lg transform -translate-y-10 sm:-translate-y-24 max-w-xs mx-auto">
             <h2 class="font-semibold text-2xl mb-6">Follow me on Instagram for future updates</h2>
             <a href="https://www.instagram.com/itstrudi"><img class="w-20 h-20 object-cover rounded-full mx-auto shadow-lg" src="/assets/logo_small.png" alt="Trudi logo">
             <p class="capitalize text-xl mt-1">@itstrudi</p></a>

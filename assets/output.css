@@ -729,10 +729,6 @@ video {
   max-width: 24rem;
 }
 
-.min-h-screen {
-  min-height: 100vh;
-}
-
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
@@ -846,8 +842,8 @@ video {
   --tw-scale-y: 1.1;
 }
 
-.-translate-y-20 {
-  --tw-translate-y: -5rem;
+.-translate-y-10 {
+  --tw-translate-y: -2.5rem;
 }
 
 .transition {
