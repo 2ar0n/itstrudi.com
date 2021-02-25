@@ -18,7 +18,9 @@ soaps:
       ingredients:
           - Birchtar
           - Rosewood
-      suitability: Body, normal skins
+          - Oats
+          - Coffee grounds
+      suitability: Body, normal skins, exfoliating
       picture: 5
       tags:
           - smoky
@@ -31,6 +33,8 @@ soaps:
           - Patchouli
           - Cypress
           - Sage
+          - Red clay
+          - Blue Clay
       suitability: All skin types
       picture: 9
       tags:
@@ -45,6 +49,8 @@ soaps:
           - Geranium
           - Lavender
           - Ylang-ylang
+          - Purple Clay
+          - Rose petals
       suitability: Sensitive skin
       picture: 13
       tags:
@@ -58,6 +64,8 @@ soaps:
           - Rosemary
           - Clove
           - Eucalyptus
+          - Spirulina
+          - Activated Charcoal
       suitability: All skin types
       picture: 17
       tags:
@@ -71,6 +79,9 @@ soaps:
           - Hinoki
           - Cedarwood
           - Black pepper
+          - Purple Clay
+          - Blue Clay
+          - Activated Charcoal
       suitability: All skin types
       picture: 21
       tags:
@@ -84,6 +95,7 @@ soaps:
           - Geranium
           - Sage
           - Tea tree
+          - Activated Charcoal
       suitability: Oily skins
       picture: 25
       tags:
@@ -98,6 +110,7 @@ soaps:
           - Rosewood
           - Ylang-ylang
           - Bergamot
+          - White clay
       suitability: Sensitive skins
       picture: 29
       tags:
@@ -111,6 +124,8 @@ soaps:
           - Neroli
           - Sandalwood
           - Vetiver
+          - Activated charcoal
+          - Rhassoul
       suitability: All skins types
       picture: 33
       tags:
@@ -128,6 +143,7 @@ soaps:
           - Vanilla
           - Cardamom
           - Cinnamon
+          - Blackberry powder
       suitability: Mature skins
       picture: 37
       tags:
@@ -141,7 +157,9 @@ soaps:
           - Vetiver
           - Cypress
           - Petitgrain
-      suitability: All skin types
+          - Licorice root
+          - Rasberry seeds
+      suitability: All skin types, exfoliating
       picture: 41
       tags:
           - woody
@@ -152,6 +170,8 @@ soaps:
       ingredients:
           - Geranium
           - Peppermint
+          - Pink Clay
+          - Spirulina
       suitability: All skins types
       picture: 45
       tags:
@@ -164,7 +184,9 @@ soaps:
           - Mandarin
           - Petitgrain
           - Black pepper
-      suitability: Normal skins
+          - Licorice root
+          - Poppyseed
+      suitability: Normal skins, exfoliating
       picture: 49
       tags:
           - fresh
@@ -175,6 +197,7 @@ soaps:
       ingredients:
           - Lavender
           - Thyme
+          - Lavender buds
       suitability: All skins types
       picture: 53
       tags:
@@ -191,7 +214,9 @@ soaps:
           - Sandalwood
           - Vetiver
           - Ylang-ylang
-      suitability: All skin types
+          - Oats
+          - Blue Clay
+      suitability: All skin types, exfoliating
       picture: 57
       tags:
           - soft
