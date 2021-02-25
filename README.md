@@ -1,4 +1,4 @@
-# [itstrudi.com](www.itstrudi.com) 
+# [itstrudi.com](http://www.itstrudi.com) 
 
 Source code of the ItsTrudi soap website. Build with Tailwindcss and Jekyll. Hosted on Github Pages.
 The favicons were generated using `https://realfavicongenerator.net/`.
