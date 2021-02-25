@@ -1,6 +1,7 @@
-# Trudi.com test 
+# [itstrudi.com](www.itstrudi.com) 
 
-Generated favicons using `https://realfavicongenerator.net/`.
+Source code of the ItsTrudi soap website. Build with Tailwindcss and Jekyll. Hosted on Github Pages.
+The favicons were generated using `https://realfavicongenerator.net/`.
 
 # Setup
 
