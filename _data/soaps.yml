@@ -1,6 +1,6 @@
 soaps:
     - name: Bangkok
-      description: When I smell this soap, I am transported directly to a spa in Thailand! The combination of lemongrass, lavender and peppermint makes for a perfect fresh yet soft combo
+      description: When I smell this soap, I am transported directly to a spa in Thailand! The combination of lemongrass, lavender and peppermint makes for a perfectly fresh yet soft combo
       ingredients:
           - Lemongrass
           - Lavender
@@ -20,7 +20,7 @@ soaps:
           - Rosewood
           - Oats
           - Coffee grounds
-      suitability: Body, normal skins, exfoliating
+      suitability: Body, normal skin, exfoliating
       picture: 5
       tags:
           - smoky
@@ -28,7 +28,7 @@ soaps:
           - floral
 
     - name: Mandalay
-      description: This soap, with its powdery scent reminds me of thanakha, a natural paste that Burmese women apply on their face and with countless skin benefits.
+      description: This soap, with its powdery scent reminds me of thanakha, a natural paste that Burmese women apply on their face for its countless skin benefits.
       ingredients:
           - Patchouli
           - Cypress
@@ -58,7 +58,7 @@ soaps:
           - subtle
 
     - name: Brisbane
-      description: With its delicious eucalyptus scent, this soap is like a walk in the Australian rainforest (minus the giant snakes and spiders! THANK GOD) The charcoal and spirulina swirl makes me think of the tree canopy and the waves on the beautiful beaches of Queensland
+      description: With its delicious eucalyptus scent, this soap is like a walk in the Australian rainforest (minus the giant snakes and spiders! THANK GOD) The charcoal and spirulina swirl make me think of the canopy tree and the waves on the beautiful beaches of Queensland
       ingredients:
           - Orange
           - Rosemary
@@ -96,7 +96,7 @@ soaps:
           - Sage
           - Tea tree
           - Activated Charcoal
-      suitability: Oily skins
+      suitability: Oily skin
       picture: 25
       tags:
           - floral
@@ -104,14 +104,14 @@ soaps:
           - soft
 
     - name: Reykjavik
-      description: Iceland! Its glaciers, volcanoes (anyone remembers Eyjafjallajökull??) and thermal lagoons! It's the best place to go to refresh and restart. This soap is for anyone in need for a little "me-time" and is designed specifically for sensitive skin
+      description: Iceland! Its glaciers, volcanoes (anyone remember Eyjafjallajökull??) and thermal lagoons! It's the best place to go to refresh and restart. This soap is for anyone in need of a little "me-time" and is designed specifically for sensitive skin
       ingredients:
           - Lavender
           - Rosewood
           - Ylang-ylang
           - Bergamot
           - White clay
-      suitability: Sensitive skins
+      suitability: Sensitive skin
       picture: 29
       tags:
           - floral
@@ -119,14 +119,14 @@ soaps:
           - soft
 
     - name: Casablanca
-      description: By popular demand for an orange blossom soap, here it is! With deep and complex woody notes of sandalwood and vetiver, this soap is absolutely exquisite and will delight your senses! Like an evening at Casablanca's Rick's Café
+      description: By popular demand for an orange blossom soap, here it is! With deep and complex woody notes of sandalwood and vetiver, this soap is absolutely exquisite and will delight your senses, like an evening at Casablanca's Rick's Café!
       ingredients:
           - Neroli
           - Sandalwood
           - Vetiver
           - Activated charcoal
           - Rhassoul
-      suitability: All skins types
+      suitability: All skin types
       picture: 33
       tags:
           - woody
@@ -134,7 +134,7 @@ soaps:
           - oriental
 
     - name: Babylon
-      description: All these spices and luxurious scents make you dream of the greatness of ancient civilization... Well, time travel does not exist yet but this soap allows you travel to a distant land, while taking care of your skin at the same time!
+      description: All these spices and luxurious scents make you dream of the greatness of ancient civilizations... Well, time travel does not exist yet but this soap allows you travel to a distant land, while taking care of your skin all at the same time!
       ingredients:
           - Myrrh    
           - Patchouli
@@ -144,7 +144,7 @@ soaps:
           - Cardamom
           - Cinnamon
           - Blackberry powder
-      suitability: Mature skins
+      suitability: Mature skin
       picture: 37
       tags:
           - powdery
@@ -172,40 +172,40 @@ soaps:
           - Peppermint
           - Pink Clay
           - Spirulina
-      suitability: All skins types
+      suitability: All skin types
       picture: 45
       tags:
           - fresh
           - floral
 
     - name: Tulum
-      description: Let's close your eyes for a moment... Yum, the sweet scent of tangerine and petitgrain brings the sun and the beautiful beaches of Tulum straight to your home! And this little twist of pepper reminds me of the best mezcal drink ever! Can we be on holiday already??
+      description: Let's close our eyes for a moment... Ahhh, the sweet scent of tangerine and petitgrain brings the sun and the beautiful beaches of Tulum straight to your home! And this little twist of pepper reminds me of the best mezcal drink ever! Can we be on holiday already??
       ingredients:
           - Mandarin
           - Petitgrain
           - Black pepper
           - Licorice root
           - Poppyseed
-      suitability: Normal skins, exfoliating
+      suitability: Normal skin, exfoliating
       picture: 49
       tags:
           - fresh
           - citrus
 
     - name: Gordes
-      description: Ahh la belle Provence! If I were to summarize it in a few words it would be "sunny" and "lavender". I tried to combine these two in this soap, with a delicious aromatic scent of lavender and thyme that should bring you back to a beautiful summer day in the south of France
+      description: Ahh la belle Provence! If I were to summarize it in a couple words it would be "sunny" and "lavender". I tried to combine these two in this soap, with a delicious aromatic scent of lavender and thyme that should bring you back to a beautiful summer day in the south of France
       ingredients:
           - Lavender
           - Thyme
           - Lavender buds
-      suitability: All skins types
+      suitability: All skin types
       picture: 53
       tags:
           - fresh
           - aromatic
 
     - name: Anières
-      description: Welcome home Trudi! If you don't know where or what the heck is "Anieres", that's quite normal! This small village in Geneva, located  on the shores of the lake is Trudi's HQ! My little haven of peace, serene and calm, just like this soap with its sweet and calming scents! A little swirl of blue clay and oats that reminds me of our beautiful Lake Geneva (or more like "Lake Anières", let's be real guys).
+      description: Welcome home Trudi! If you don't know where or what the heck is "Anières", that's quite normal! This small village in Geneva, located  on the shores of the lake is Trudi's HQ! My little haven of peace, serene and calm, just like this soap with its sweet and calming scents! A little swirl of blue clay and oats that reminds me of our beautiful Lake Geneva (or more like "Lake Anières", let's be real guys).
       ingredients:
           - Bergamot
           - Cedarwood
