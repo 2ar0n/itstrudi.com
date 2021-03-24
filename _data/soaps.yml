@@ -192,7 +192,7 @@ soaps:
           - fresh
           - citrus
 
-    - name: Gordes
+    - name: Gordes (SOLD OUT)
       description: Ahh la belle Provence! If I were to summarize it in a couple words it would be "sunny" and "lavender". I tried to combine these two in this soap, with a delicious aromatic scent of lavender and thyme that should bring you back to a beautiful summer day in the south of France
       ingredients:
           - Lavender
