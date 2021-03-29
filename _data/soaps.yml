@@ -27,7 +27,8 @@ soaps:
           - leather
           - floral
 
-    - name: Mandalay (SOLD OUT)
+    - name: Mandalay
+      sold_out: true
       description: This soap, with its powdery scent reminds me of thanakha, a natural paste that Burmese women apply on their face for its countless skin benefits.
       ingredients:
           - Patchouli
@@ -118,7 +119,8 @@ soaps:
           - aromatic
           - soft
 
-    - name: Casablanca (SOLD OUT)
+    - name: Casablanca
+      sold_out: true
       description: By popular demand for an orange blossom soap, here it is! With deep and complex woody notes of sandalwood and vetiver, this soap is absolutely exquisite and will delight your senses, like an evening at Casablanca's Rick's Café!
       ingredients:
           - Neroli
@@ -192,7 +194,8 @@ soaps:
           - fresh
           - citrus
 
-    - name: Gordes (SOLD OUT)
+    - name: Gordes
+      sold_out: true
       description: Ahh la belle Provence! If I were to summarize it in a couple words it would be "sunny" and "lavender". I tried to combine these two in this soap, with a delicious aromatic scent of lavender and thyme that should bring you back to a beautiful summer day in the south of France
       ingredients:
           - Lavender
@@ -204,7 +207,8 @@ soaps:
           - fresh
           - aromatic
 
-    - name: Anières (SOLD OUT)
+    - name: Anières
+      sold_out: true
       description: Welcome home Trudi! If you don't know where or what the heck is "Anières", that's quite normal! This small village in Geneva, located  on the shores of the lake is Trudi's HQ! My little haven of peace, serene and calm, just like this soap with its sweet and calming scents! A little swirl of blue clay and oats that reminds me of our beautiful Lake Geneva (or more like "Lake Anières", let's be real guys).
       ingredients:
           - Bergamot
