@@ -1,5 +1,6 @@
 soaps:
     - name: Bangkok
+      sold_out: false
       description: When I smell this soap, I am transported directly to a spa in Thailand! The combination of lemongrass, lavender and peppermint makes for a perfectly fresh yet soft combo
       ingredients:
           - Lemongrass
@@ -14,6 +15,7 @@ soaps:
           - citrus
 
     - name: Winnipeg
+      sold_out: false
       description: Hop on for a journey to the wild north of Canada, in the pristine province of Manitoba. The perfect reward after a long day of hiking for all campers with this soap that literally smells like a comforting wood fire
       ingredients:
           - Birchtar
@@ -44,6 +46,7 @@ soaps:
           - oriental
 
     - name: Kunming
+      sold_out: false
       description: The beautiful province of Yunnan in China is known around the world for its delicious green and jasmine teas, which I tried to honour in this flowery soap. It will transport you to a peaceful meditative tea tasting session
       ingredients:
           - Jasmin
@@ -59,6 +62,7 @@ soaps:
           - subtle
 
     - name: Brisbane
+      sold_out: false
       description: With its delicious eucalyptus scent, this soap is like a walk in the Australian rainforest (minus the giant snakes and spiders! THANK GOD) The charcoal and spirulina swirl make me think of the canopy tree and the waves on the beautiful beaches of Queensland
       ingredients:
           - Orange
@@ -75,6 +79,7 @@ soaps:
           - fresh
 
     - name: Ise
+      sold_out: false
       description: The great shrine of Ise in Mie Prefecture in Japan is in the spotlight here! This shrine (the largest in Japan) is entirely rebuilt every 20 years with the noble wood of the hinoki tree to symbolize the impermanence of things and the renewal of nature...
       ingredients:
           - Hinoki
@@ -90,6 +95,7 @@ soaps:
           - fresh
 
     - name: Berlin
+      sold_out: false
       description: "Berlin is known with its wild nightlife and cute family cafés; what a versatile lifestyle! Just like this soap: the perfect anti-pollution combo that cleans deeply but gently at the same time! The activated charcoal gives it this naturally black color, reflecting your wildest nights in the German capital!"
       ingredients:
           - Lavender
@@ -105,6 +111,7 @@ soaps:
           - soft
 
     - name: Reykjavik
+      sold_out: false
       description: Iceland! Its glaciers, volcanoes (anyone remember Eyjafjallajökull??) and thermal lagoons! It's the best place to go to refresh and restart. This soap is for anyone in need of a little "me-time" and is designed specifically for sensitive skin
       ingredients:
           - Lavender
@@ -136,6 +143,7 @@ soaps:
           - oriental
 
     - name: Babylon
+      sold_out: false
       description: All these spices and luxurious scents make you dream of the greatness of ancient civilizations... Well, time travel does not exist yet but this soap allows you travel to a distant land, while taking care of your skin all at the same time!
       ingredients:
           - Myrrh    
@@ -154,6 +162,7 @@ soaps:
           - spicy
 
     - name: Seattle
+      sold_out: false
       description: This soap is the perfect definition of "petrichor"! You know, that fancy word to describe that special smell after a rainfall? If you don't know what I'm talking about, a little trip to the rainy city Seattle is a must! But remember that this soap emits less carbon than a flight around the world 😉 
       ingredients:
           - Vetiver
@@ -168,6 +177,7 @@ soaps:
           - fresh
 
     - name: Singapour
+      sold_out: false
       description: "Singapore, the definition of a true melting pot of cultures! The pink part of this soap smells like geranium and the green part like peppermint that creates a surprising combination of fresh and floral scent at the same time: two very different aromas combining to make a perfect whole! Just like this small country of South East Asia"
       ingredients:
           - Geranium
@@ -181,6 +191,7 @@ soaps:
           - floral
 
     - name: Tulum
+      sold_out: false
       description: Let's close our eyes for a moment... Ahhh, the sweet scent of tangerine and petitgrain brings the sun and the beautiful beaches of Tulum straight to your home! And this little twist of pepper reminds me of the best mezcal drink ever! Can we be on holiday already??
       ingredients:
           - Mandarin
