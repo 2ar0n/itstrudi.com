@@ -1,0 +1,13 @@
+soaps:
+    - name: Test
+      description: This is a test
+      ingredients:
+          - This
+          - Is
+          - A
+          - Test
+      suitability: Again
+      picture: 1
+      tags:
+          - haha
+          - lolol
