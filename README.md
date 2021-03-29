@@ -34,3 +34,11 @@ sudo podman run -it --rm -v "$PWD":/usr/src/app -p "4000:4000" starefossen/githu
 ```
 
 The site is then accessible at `localhost:4000`.
+
+# Image postprocessing
+
+```bash
+ls -1 *.png | xargs -n 1 bash -c 'convert "$0" -quality 75 -resize 384x384 "${0%.*}.jpg"'
+ls -1 *.png | xargs -n 1 bash -c 'convert "$0" -quality 80 -define webp:lossless=false -resize 384x384 "${0%.*}.webp"'
+ls -1 *.png | xargs -n 1 bash -c 'convert "$0" -gravity center -crop 500x500+0+0 "${0%.*}.jpg"'
+```
