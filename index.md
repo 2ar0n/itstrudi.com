@@ -6,7 +6,7 @@ title: Trudi - Homepage
 <div class="flex justify-center flex-wrap p-5">
     {% for item in site.data.soaps.soaps %}
       <div class="max-w-sm rounded overflow-hidden shadow-lg my-2 m-5 mt-12 bg-white bg-opacity-75 transition duration-500 ease-in-out transform hover:scale-110">
-          <picture class="w-full lazy">
+          <picture>
             <source srcset="/assets/pictures/{{ item.picture }}.webp" type="image/webp">
             <source srcset="/assets/pictures/{{ item.picture }}.png" type="image/png"> 
             <img src="/assets/pictures/{{ item.picture }}.png" alt="Picture of {{ item.name }}">
