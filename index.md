@@ -46,5 +46,9 @@ title: Trudi - Homepage
     {% endfor %}
 </div>
 
-<div id="wcb" class="carbonbadge wcb-d"></div>
-<script src="https://unpkg.com/website-carbon-badges@1.1.1/b.min.js" defer></script>
+<div class="w-full flex flex-wrap space-x-3 text-center text-xs justify-center items-center mt-20 bg-blue-50">
+    <div>This website has been optimised for low energy consumption.</div>
+    <div id="wcb" class="carbonbadge wcb-d transform scale-75"></div>
+    <script src="https://unpkg.com/website-carbon-badges@1.1.1/b.min.js" defer></script>
+    <div>Be conscious about the web's energy needs.</div>
+</div>
