@@ -2,7 +2,7 @@
 permalink: /
 title: Trudi - Homepage
 description: Homepage of Trudi soap, natural soaps handmade in Geneva, CH.
-keywords: soap, natural, homemade 
+keywords: soap, natural, homemade
 ---
 
 <div class="flex justify-center flex-wrap p-5">
