@@ -5,6 +5,4 @@
     - Mission
     - Process
     - Shipping
-- Carbon badge
 - Hamburger menu?
-- Description on soap page (available sizes)
