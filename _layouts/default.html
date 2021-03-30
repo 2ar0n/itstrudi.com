@@ -12,7 +12,9 @@
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" type="text/css" href="assets/output.css">
     <link rel="stylesheet" type="text/css" href="assets/bubbles.css">
-    <title>Trudi</title>
+    {% if page.title %}<meta name="title" content="{{ page.title }}">{% endif %}
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
 </head>
 <body>
     <div class="mx-auto">
