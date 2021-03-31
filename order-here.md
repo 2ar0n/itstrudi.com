@@ -1,6 +1,6 @@
 ---
-permalink: /how-to-order
-title: Trudi - How to order
+permalink: /order-here
+title: Trudi - Order here
 description: How to order natural soaps handmade in Geneva, CH.
 keywords: soap, natural, homemade
 ---

@@ -4,7 +4,7 @@ module.exports = {
       content: [
         './_layouts/*.html',
         './index.md',
-        './how-to-order.md',
+        './order-here.md',
       ],
   },
   darkMode: false, // or 'media' or 'class'
