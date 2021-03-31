@@ -79,7 +79,7 @@ soaps:
           - fresh
 
     - name: Ise
-      sold_out: false
+      sold_out: true
       description: The great shrine of Ise in Mie Prefecture in Japan is in the spotlight here! This shrine (the largest in Japan) is entirely rebuilt every 20 years with the noble wood of the hinoki tree to symbolize the impermanence of things and the renewal of nature...
       ingredients:
           - Hinoki
