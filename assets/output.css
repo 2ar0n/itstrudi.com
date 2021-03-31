@@ -817,12 +817,12 @@ video {
   padding-right: 2.5rem;
 }
 
-.pt-4 {
-  padding-top: 1rem;
-}
-
 .pb-4 {
   padding-bottom: 1rem;
+}
+
+.fixed {
+  position: fixed;
 }
 
 .absolute {
@@ -903,6 +903,10 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.z-20 {
+  z-index: 20;
 }
 
 .z-50 {

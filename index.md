@@ -21,7 +21,7 @@ keywords: soap, natural, homemade
                     <div class="absolute z-50 bottom-1 right-1 -translate-x-10 -translate-y-1/2 flex items-center text-center justify-center w-32 h-32 p-5 rounded-full bg-white group-hover:bg-green-200 text-pink-400 group-hover:text-white text-2xl font-semibold cursor-pointer duration-500 select-none">SOLD OUT</div>
                 {% endif %}
             </div>
-            <div class="px-6 pt-4 pb-4">
+            <div class="px-6 pb-4">
                 <div class="font-bold text-xl mb-1">{{ item.name }}</div>
                 <div class="divide-y-2">
                     <p>{{ item.description }}</p>

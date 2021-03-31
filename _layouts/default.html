@@ -18,7 +18,7 @@
 </head>
 <body>
     <div class="mx-auto">
-        <header class="flex bg-gray-50 h-20 justify-between items-center">
+        <header class="fixed z-20 w-full flex bg-gray-50 h-20 justify-between items-center">
             <div class="flex space-x-10 justify-between items-center">
                 <a href="/" class="w-40 ml-10">
                     <picture>
@@ -35,6 +35,8 @@
         </header>
         <main>
             <div class="content">
+                <div class="h-20">
+                </div>
                 {{ content }}
             </div>
             <footer class="w-full flex flex-wrap space-x-3 text-center text-xs justify-center items-center mt-20 py-2 bg-blue-50 bg-opacity-50">
