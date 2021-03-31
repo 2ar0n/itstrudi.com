@@ -13,8 +13,16 @@ keywords: soap, natural, homemade
         </div>
         <div class="bg-white py-8 px-10 text-center rounded-md shadow-lg transform -translate-y-10 sm:-translate-y-24 max-w-xs mx-auto">
             <h2 class="font-semibold text-2xl mb-6">Follow me on Instagram for future updates</h2>
-            <a href="https://www.instagram.com/itstrudi"><img class="w-20 h-20 object-cover rounded-full mx-auto shadow-lg" src="/assets/logo_small.png" alt="Trudi logo">
-            <p class="capitalize text-xl mt-1">@itstrudi</p></a>
+            <a href="https://www.instagram.com/itstrudi">
+                <div class="w-20 h-20 object-cover rounded-full mx-auto shadow-lg">
+                    <picture >
+                        <source srcset="/assets/logo_round.webp" type="image/webp">
+                        <source srcset="/assets/logo_round.png" type="image/png">
+                        <img src="/assets/logo_round.png" alt-text="trudi logo">
+                    </picture>
+                </div>
+                <p class="capitalize text-xl mt-1">@itstrudi</p>
+            </a>
         </div>
     </div>
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSciM3mLOK-J-xUfX8sp3xDgqH1hPxgl7zxNe-K_XOLsWSj3OQ/viewform?embedded=true" width="640" height="3500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
