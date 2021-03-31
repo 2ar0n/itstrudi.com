@@ -1,8 +1,7 @@
 ---
 permalink: /order-here
 title: Trudi - Order here
-description: How to order natural soaps handmade in Geneva, CH.
-keywords: soap, natural, homemade
+description: Order beautiful hard soap bars, handmade from natural and vegan ingredients in Geneva, Switzerland.
 ---
 
 <div class="flex justify-center flex-wrap p-5 mt-12">
