@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: Trudi - Homepage
+layout: default
 description: Order beautiful hard soap bars, handmade from natural and vegan ingredients in Geneva, Switzerland.
 ---
 
