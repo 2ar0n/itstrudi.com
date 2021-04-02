@@ -6,7 +6,7 @@ module.exports = {
         './index.md',
         './404.md',
         './about.md',
-        './how-to-order.md',
+        './order-here.md',
       ],
   },
   darkMode: false, // or 'media' or 'class'
