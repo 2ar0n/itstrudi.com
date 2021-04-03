@@ -46,7 +46,7 @@ soaps:
           - oriental
 
     - name: Kunming
-      sold_out: false
+      sold_out: true
       description: The beautiful province of Yunnan in China is known around the world for its delicious green and jasmine teas, which I tried to honour in this flowery soap. It will transport you to a peaceful meditative tea tasting session
       ingredients:
           - Jasmin
