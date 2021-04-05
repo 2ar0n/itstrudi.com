@@ -111,7 +111,7 @@ soaps:
           - soft
 
     - name: Reykjavik
-      sold_out: false
+      sold_out: true
       description: Iceland! Its glaciers, volcanoes (anyone remember Eyjafjallajökull??) and thermal lagoons! It's the best place to go to refresh and restart. This soap is for anyone in need of a little "me-time" and is designed specifically for sensitive skin
       ingredients:
           - Lavender
