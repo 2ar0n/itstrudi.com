@@ -12,6 +12,7 @@
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" type="text/css" href="assets/output.css">
     <link rel="stylesheet" type="text/css" href="assets/bubbles.css">
+    {% if page.title %}<title>{{ page.title }}</title>{% endif %}
     {% if page.title %}<meta name="title" content="{{ page.title }}">{% endif %}
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="keywords" content="soap, soap bar, natural, homemade, vegan, plastic-free, ethical, palm oil free, perfume, healthy, sustainable, skin, swiss quality, organic">
