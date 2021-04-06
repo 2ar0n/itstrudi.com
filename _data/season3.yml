@@ -1,13 +1,157 @@
 soaps:
-    - name: Test
-      description: This is a test
+    - name: Petitgrain
+      description: Description
       ingredients:
           - This
           - Is
-          - A
-          - Test
-      suitability: Again
+          - An
+          - Ingredient
+      suitability: All skin types
       picture: 1
       tags:
-          - haha
-          - lolol
+          - tag1
+          - tag2
+
+    - name: Teatree
+      description: Description
+      ingredients:
+          - This
+          - Is
+          - An
+          - Ingredient
+      suitability: All skin types
+      picture: 4
+      tags:
+          - tag1
+          - tag2
+
+    - name: CedarAtlas
+      description: Description
+      ingredients:
+          - This
+          - Is
+          - An
+          - Ingredient
+      suitability: All skin types
+      picture: 7
+      tags:
+          - tag1
+          - tag2
+
+    - name: Neutral Vanilla
+      description: Description
+      ingredients:
+          - This
+          - Is
+          - An
+          - Ingredient
+      suitability: All skin types
+      picture: 10
+      tags:
+          - tag1
+          - tag2
+
+    - name: Geranium
+      description: Description
+      ingredients:
+          - This
+          - Is
+          - An
+          - Ingredient
+      suitability: All skin types
+      picture: 13
+      tags:
+          - tag1
+          - tag2
+
+    - name: Spearmint
+      description: Description
+      ingredients:
+          - This
+          - Is
+          - An
+          - Ingredient
+      suitability: All skin types
+      picture: 16
+      tags:
+          - tag1
+          - tag2
+
+    - name: Lavender
+      description: Description
+      ingredients:
+          - This
+          - Is
+          - An
+          - Ingredient
+      suitability: All skin types
+      picture: 19
+      tags:
+          - tag1
+          - tag2
+
+    - name: DishSoap
+      description: Description
+      ingredients:
+          - This
+          - Is
+          - An
+          - Ingredient
+      suitability: All skin types
+      picture: 22
+      tags:
+          - tag1
+          - tag2
+
+    - name: Cardamom
+      description: Description
+      ingredients:
+          - This
+          - Is
+          - An
+          - Ingredient
+      suitability: All skin types
+      picture: 25
+      tags:
+          - tag1
+          - tag2
+
+    - name: Eucalyptus
+      description: Description
+      ingredients:
+          - This
+          - Is
+          - An
+          - Ingredient
+      suitability: All skin types
+      picture: 28
+      tags:
+          - tag1
+          - tag2
+
+    - name: Lemongrass
+      description: Description
+      ingredients:
+          - This
+          - Is
+          - An
+          - Ingredient
+      suitability: All skin types
+      picture: 31
+      tags:
+          - tag1
+          - tag2
+
+    - name: Trudifetti
+      description: Description
+      ingredients:
+          - This
+          - Is
+          - An
+          - Ingredient
+      suitability: All skin types
+      picture: 34
+      tags:
+          - tag1
+          - tag2
+

@@ -19,9 +19,9 @@ description: Order beautiful hard soap bars, handmade from natural and vegan ing
     {% for item in site.data.season2.soaps %}
       <div class="max-w-sm rounded overflow-hidden shadow-lg my-2 m-5 mt-12 bg-white bg-opacity-75 transition duration-500 ease-in-out transform hover:scale-110">
           <picture>
-            <source srcset="/assets/pictures/{{ item.picture }}.webp" type="image/webp">
-            <source srcset="/assets/pictures/{{ item.picture }}.png" type="image/png"> 
-            <img src="/assets/pictures/{{ item.picture }}.png" alt="Picture of {{ item.name }}">
+            <source srcset="/assets/pictures/season2/{{ item.picture }}.webp" type="image/webp">
+            <source srcset="/assets/pictures/season2/{{ item.picture }}.png" type="image/png"> 
+            <img src="/assets/pictures/season2/{{ item.picture }}.png" alt="Picture of {{ item.name }}">
           </picture>
           <div class="px-6 pt-4 pb-4">
             <div class="font-bold text-xl mb-1">{{ item.name }}</div>
