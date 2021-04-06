@@ -1,6 +1,8 @@
 ---
 permalink: /season2
-title: Trudi - Homepage
+title: ItsTrudi - Season 2
+layout: default
+description: Order beautiful hard soap bars, handmade from natural and vegan ingredients in Geneva, Switzerland.
 ---
 
 <div class="bg-pink-50 border-t-4 border-pink-500 rounded-b text-pink-700 px-4 py-3 shadow-md mx-4 md:mx-20 mt-12" role="alert">
