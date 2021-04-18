@@ -143,7 +143,7 @@ soaps:
           - oriental
 
     - name: Babylon
-      sold_out: false
+      sold_out: true
       description: All these spices and luxurious scents make you dream of the greatness of ancient civilizations... Well, time travel does not exist yet but this soap allows you travel to a distant land, while taking care of your skin all at the same time!
       ingredients:
           - Myrrh    
@@ -162,7 +162,7 @@ soaps:
           - spicy
 
     - name: Seattle
-      sold_out: false
+      sold_out: true
       description: This soap is the perfect definition of "petrichor"! You know, that fancy word to describe that special smell after a rainfall? If you don't know what I'm talking about, a little trip to the rainy city Seattle is a must! But remember that this soap emits less carbon than a flight around the world 😉 
       ingredients:
           - Vetiver
@@ -191,7 +191,7 @@ soaps:
           - floral
 
     - name: Tulum
-      sold_out: false
+      sold_out: true
       description: Let's close our eyes for a moment... Ahhh, the sweet scent of tangerine and petitgrain brings the sun and the beautiful beaches of Tulum straight to your home! And this little twist of pepper reminds me of the best mezcal drink ever! Can we be on holiday already??
       ingredients:
           - Mandarin
