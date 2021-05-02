@@ -1,6 +1,6 @@
 soaps:
     - name: Bangkok
-      sold_out: false
+      sold_out: true
       description: When I smell this soap, I am transported directly to a spa in Thailand! The combination of lemongrass, lavender and peppermint makes for a perfectly fresh yet soft combo
       ingredients:
           - Lemongrass
@@ -62,7 +62,7 @@ soaps:
           - subtle
 
     - name: Brisbane
-      sold_out: false
+      sold_out: true
       description: With its delicious eucalyptus scent, this soap is like a walk in the Australian rainforest (minus the giant snakes and spiders! THANK GOD) The charcoal and spirulina swirl make me think of the canopy tree and the waves on the beautiful beaches of Queensland
       ingredients:
           - Orange
@@ -95,7 +95,7 @@ soaps:
           - fresh
 
     - name: Berlin
-      sold_out: false
+      sold_out: true
       description: "Berlin is known with its wild nightlife and cute family cafés; what a versatile lifestyle! Just like this soap: the perfect anti-pollution combo that cleans deeply but gently at the same time! The activated charcoal gives it this naturally black color, reflecting your wildest nights in the German capital!"
       ingredients:
           - Lavender
@@ -177,7 +177,7 @@ soaps:
           - fresh
 
     - name: Singapour
-      sold_out: false
+      sold_out: true
       description: "Singapore, the definition of a true melting pot of cultures! The pink part of this soap smells like geranium and the green part like peppermint that creates a surprising combination of fresh and floral scent at the same time: two very different aromas combining to make a perfect whole! Just like this small country of South East Asia"
       ingredients:
           - Geranium
