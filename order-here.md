@@ -25,5 +25,5 @@ description: Order beautiful hard soap bars, handmade from natural and vegan ing
             </a>
         </div>
     </div>
-    <div class="typeform-widget rounded-2xl" data-url="https://form.typeform.com/to/Rozd3yHV?typeform-medium=embed-snippet" style="width: 640px; height: 800px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+    <div class="typeform-widget" data-url="https://form.typeform.com/to/Sfo3mnvQ?typeform-medium=embed-snippet" style="width: 640px; height: 800px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
 </div>
