@@ -1,68 +1,68 @@
 soaps:
     - name: Petitgrain
-      description: Description
+      description: Petitgrain is one of my absolute favorite scent: so fresh and citrusy yet woody and deep at the same time. Known for its calming and anti-stress properties in aromatherapy, paired with the rhassoul clay and licorice root known for their antibaceterial and anti-inflammatory properties, this soap is the perfect combo for tired and blemish-prone skin - and your hair too!
       ingredients:
-          - This
-          - Is
-          - An
-          - Ingredient
-      suitability: All skin types
+          - Petitgrain Essential Oil
+          - Rhassoul Clay
+          - Licorice Root
+          - Cacao Butter
+      suitability: Blemish prone skin, hair, body, face
       picture: 1
       tags:
-          - tag1
-          - tag2
+          - citrusy
+          - woody
 
     - name: Teatree
-      description: Description
+      description: With its antifungal and antibacterial properties, you can't go wrong with teatree if you're in need of a good wash! The poopyseed will give you an extra exfoliation, great for daily use on your hands, but keep it to 2-3 times a week on your body for optimal gentleness!
       ingredients:
-          - This
-          - Is
-          - An
-          - Ingredient
-      suitability: All skin types
+          - Tea Tree Essential Oil
+          - Spirulina Powder
+          - Poppyseeds
+          - Sweet Almond oil
+      suitability: Greasy skin, exfoliating, body
       picture: 4
       tags:
-          - tag1
-          - tag2
+          - aromatic
+          - fresh
 
     - name: CedarAtlas
-      description: Description
+      description: Cedaratlas combined with activated charcoal is the perfect combination for oily acne prone skin. The scent of cedaratlas is this complex blend of woody and sweet aroma for a grounding and balancing result that will please anyone looking for something a little special... 
       ingredients:
-          - This
-          - Is
-          - An
-          - Ingredient
-      suitability: All skin types
+          - Cedar Atlas Essential Oil
+          - Activated Charcoal
+          - Shea Butter
+          - Sweet Almond Oil
+      suitability: All skin types, acne prone skin, body, face, hair
       picture: 7
       tags:
-          - tag1
-          - tag2
+          - woody
+          - sweet
 
     - name: Neutral Vanilla
-      description: Description
+      description: This soap has everyhting (except the smell!) it's is super bubbly, soft and gently exfolianting for the skin. If you're looking for a natural soap but can't handle intense scents, then you're in luck 'cause this is just what you've been looking for!
       ingredients:
-          - This
-          - Is
-          - An
-          - Ingredient
-      suitability: All skin types
+          - Vanilla essential oil (no scent)
+          - Coffee Ground
+          - White Clay
+          - Mango Butter
+      suitability: All skin types, exfoliating, body
       picture: 10
       tags:
-          - tag1
-          - tag2
+          - No Scent
+          - exfoliating
 
     - name: Geranium
-      description: Description
+      description: This soap is quite literally a gentle caress with a rose petal on your skin, not only does it smell delicious (like you've stepped in a rose garden in full bloom) it's also perfect for more mature and sensitive skin. Geranium essential oil is soothing and calming (looking at ya skin redness!) and pink clay is known for its properties on skin elasticity and cell renewal! Did I mention you can use it on your hair too??  
       ingredients:
-          - This
-          - Is
-          - An
-          - Ingredient
-      suitability: All skin types
+          - Geranium Essential Oil
+          - Pink Clay
+          - Sweet Almond Oil
+          - Castor Oil
+      suitability: Mature skin, sensitive skin, body, face,hair
       picture: 13
       tags:
-          - tag1
-          - tag2
+          - Flowery
+          - Fresh
 
     - name: Spearmint
       description: Description
@@ -74,7 +74,7 @@ soaps:
       suitability: All skin types
       picture: 16
       tags:
-          - tag1
+          - Fresh
           - tag2
 
     - name: Lavender
