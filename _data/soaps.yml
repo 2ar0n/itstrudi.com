@@ -15,7 +15,7 @@ soaps:
           - citrus
 
     - name: Winnipeg
-      sold_out: false
+      sold_out: true
       description: Hop on for a journey to the wild north of Canada, in the pristine province of Manitoba. The perfect reward after a long day of hiking for all campers with this soap that literally smells like a comforting wood fire
       ingredients:
           - Birchtar
