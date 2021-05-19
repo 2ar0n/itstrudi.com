@@ -4,9 +4,10 @@ module.exports = {
       content: [
         './_layouts/*.html',
         './index.md',
-        './404.md',
+        './season2.md',
         './about.md',
         './order-here.md',
+        './404.md',
       ],
   },
   darkMode: false, // or 'media' or 'class'

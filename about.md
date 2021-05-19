@@ -1,6 +1,6 @@
 ---
 permalink: /about
-title: Trudi - About
+title: ItsTrudi - About
 layout: default
 description: About Trudi soap, natural soaps handmade using vegan ingredients in Geneva, Switzerland.
 ---
