@@ -1,6 +1,6 @@
 soaps:
     - name: Petitgrain
-      description: "Petitgrain is one of my absolute favorite scent: so fresh and citrusy yet woody and deep at the same time. Known for its calming and anti-stress properties in aromatherapy, paired with the rhassoul clay and licorice root known for their antibaceterial and anti-inflammatory properties, this soap is the perfect combo for tired and blemish-prone skin - and your hair too!"
+      description: "Petitgrain is one of my absolute favorite scent: so fresh and citrusy yet woody and deep at the same time. It is known for its calming properties in aromatherapy and paired with rhassoul clay and licorice root, both known for their antibaceterial and anti-inflammatory properties, it makes this soap the perfect combo not only for tired and blemish-prone skin but for your hair too!"
       ingredients:
           - Petitgrain Essential Oil
           - Rhassoul Clay
@@ -13,7 +13,7 @@ soaps:
           - anti-stress
 
     - name: Teatree
-      description: With its antifungal and antibacterial properties, you can't go wrong with teatree if you're in need of a good wash! The poopyseed will give you an extra exfoliation, great for daily use on your hands, but keep it to 2-3 times a week on your body for optimal gentleness!
+      description: With its antifungal and antibacterial properties, you can't go wrong with teatree when in need of a deep cleanse! The poopyseed will give you an extra exfoliation, great for daily use on your hands, but keep it to 2-3 times a week on your body for optimal gentleness - your skin will thank you!
       ingredients:
           - Tea Tree Essential Oil
           - Spirulina Powder
@@ -26,7 +26,7 @@ soaps:
           - exfoliating
 
     - name: CedarAtlas
-      description: Cedaratlas combined with activated charcoal is the perfect combination for oily & acne prone skin, as well as cellulite. The scent of cedaratlas is this complex blend of woody and sweet aroma for a grounding and balancing result that will please anyone looking for something a little special... 
+      description: Cedar Atlas Essential Oil combined with activated charcoal is the perfect combination against cellulite or oily & acne prone skin. The scent of cedar atlas is a complex blend of woody yet sweet aroma for a grounding and balancing result, that will please anyone looking for something a little bit out of the beaten tracks... 
       ingredients:
           - Cedar Atlas Essential Oil
           - Activated Charcoal
@@ -39,7 +39,7 @@ soaps:
           - detoxifying
 
     - name: Neutral Vanilla
-      description: This soap has everyhting (except the smell!) it's is super bubbly, soft and gently exfolianting for the skin. If you're looking for a natural soap but can't handle intense scents, then you're in luck 'cause this is just what you've been looking for!
+      description: This soap has everyhting (except the scent!) it's is super bubbly, neutral & soft while gently exfolianting for the skin. It's perfect of anyone sensitive to strong scents and just looking for a natural soap to pamper the skin. 
       ingredients:
           - Vanilla essential oil (no scent)
           - Coffee Ground
@@ -52,7 +52,7 @@ soaps:
           - exfoliating
 
     - name: Geranium
-      description: This soap is quite literally a gentle caress with a rose petal on your skin, not only does it smell delicious (like you've stepped in a rose garden in full bloom) it's also perfect for more mature and sensitive skin. Geranium essential oil is soothing and calming (looking at ya skin redness!) and pink clay is known for its properties on skin elasticity and cell renewal! Did I mention you can use it on your hair too??  
+      description: This soap is quite literally a gentle caress with a rose petal on your skin, not only does it smell delicious (like you've stepped in a rose garden in full bloom), but it's also perfect for more mature and sensitive skin. Geranium essential oil is soothing and calming (looking at ya skin redness!) and pink clay is known for its properties on skin elasticity and cell renewal! Did I mention you can use it on your hair too??  
       ingredients:
           - Geranium Essential Oil
           - Pink Clay
@@ -65,7 +65,7 @@ soaps:
           - Soothing
 
     - name: Spearmint
-      description: Mirror, mirror on the wall, who is the freshest of them all??? Well it's you! If you're showering with spearmint, cause it's basically like applying toothpaste all over you (but in a good way..?) This one is my absolute go-to soap for the morning shower or after a work-out session, when I want to wake up and/or feel refreshed.
+      description: Mirror, mirror on the wall, who is the freshest of them all??? Well it sure must be me when I shower with this one, cause it feels like applying toothpaste all over the body (but in a good way..?) This one is my absolute go-to soap for my morning or post work-out shower, when I want to wake-up and/or feel super refreshed.
       ingredients:
           - Spearmint Essential Oil
           - Blue Clay
@@ -78,7 +78,7 @@ soaps:
           - Energising
 
     - name: Lavender
-      description: Does lavender even need an introduction still? It's THE ultimate traditional scent for the savon de Marseille, or any artisanal soap, and with reasons! It smells so good, it's so soothing for the skin that you can't go wrong with it! Paired with red clay, known for its soothing properties, it's a great combo for tired skin.  
+      description: Does lavender even need an introduction still? It's THE ultimate traditional scent for the artisanal soap, and with reasons! It smells really good, it's super soothing and so soft on the skin that you can't go wrong with it! Paired with red clay, known for its soothing properties, it's a great blend for tired skin!  
       ingredients:
           - Coffee Grounds
           - Lavender Essential Oil
@@ -91,7 +91,7 @@ soaps:
           - exfoliating
 
     - name: DishSoap
-      description: Well who said you can't pamper your plates too? This soap is extra extra bubbly to give your dishes a deep cleanse (but it will be too drying to use on your skin). It's a great alternative for a cleaner dishsoap in your kitchen, being entirely biodegradable with no extra plastic packaging. Being a solid soap, it ensures you use just the right quantity for your daily dishwashing session and last much longer than its liquid soap alternative!
+      description: Well who said you can't pamper your plates too? This soap is extra extra bubbly to give your dishes the deep cleanse. It's a great alternative for a cleaner dishsoap in your kitchen, being entirely biodegradable with no extra plastic packaging. Being a solid soap, it also ensures you use just the right amount for your daily dishwashing session and will thus last much longer than its liquid soap counterpart! 
       ingredients:
           - Rosemary Essential Oil
           - Lemon Essential Oil
@@ -104,7 +104,7 @@ soaps:
           - Dishes
 
     - name: Cardamom
-      description: Okokokk, cardamom is kind of my guilty pleasure (although there is nothing to feel guilty about right..?) but if I could I'd put it everywhere! So I'm a little bias here when it comes to say all the great things about this soap... BUT in all fairness, it does smell amazing and it also great for sensitive and mature skin - so maybe I'm right to put it everwhere in the end..?
+      description: Okokokk, I'll admit it, cardamom is kind of my guilty pleasure (although is there really something to feel guilty about..?) but if I could, I'd truly use it everywhere! So I'm a little bias here when it comes to say all the great things about this soap... BUT in all fairness, cardamom does smell amazing and it also great for sensitive and mature skin as well as hair! - so maybe I'm right to put it everwhere after all..?
       ingredients:
           - Cardamom Essential Oil
           - Sweet Almond Oil
@@ -117,7 +117,7 @@ soaps:
           - toning
 
     - name: Eucalyptus
-      description: With summer coming, I love this soap for the evening showering, after a day spent outside in the sun. With its cooling and sooting properties, eucalyptus is perfect to wind down at the end of the day. 
+      description: You just can't go wrong with Eucalyptus! Such a comforting scent with versatile properties. While eucalyptus essential oil often used to fight a cold, it's also super cooling and sooting, when you're in need to wind down at the end of the day and is known to reduce inflammation on the skin too!
       ingredients:
           - Eucalyptus Essential Oil
           - Shea Butter
@@ -130,7 +130,7 @@ soaps:
           - invigorating
 
     - name: Lemongrass
-      description: This soap is your little ray of sunshine in the shower, and quite literally as both lemongrass essential oil and licorice root are known for their brightening benefits! Combined with the gentle exfoliation from the raspberry seeds, this soap will pamper your tired skin and leave you feeling refreshed.
+      description: This soap is quite literally the little ray of sunshine we all desperately need right now (I mean, what the heck is this month of May??), as both lemongrass essential oil and licorice root are known for their brightening benefits! Combined with the gentle exfoliation from the raspberry seeds, this soap will pamper your tired skin and leave you feeling refreshed.
       ingredients:
           - Lemongrass Essential Oil
           - Licorice Root
@@ -143,7 +143,7 @@ soaps:
           - exfoliating
 
     - name: Trudifetti
-      description: Hey! Did I tell you Trudi is celebrating its first birthday this May..?? Well to celebrate the occasion, I made this very special soap with all my favorite scents and some soap confetti from the previous seasons! I started Trudi to reduce plastic packaging in the bathroom so what best way to celebrate to upcycle soap to make a new funky one that smell delicious?
+      description: Hey! Did I tell you Trudi is celebrating its first birthday this May..?? Well to celebrate this special occasion, I created this very unique soap with all my favorite scents and some soap's confetti from previous seasons! I started Trudi to reduce plastic packaging in the bathroom, so what best way to celebrate my first anniversary than to upcycle soap to make a new funky one that smell delicious?
       ingredients:
           - Bergamote
           - Cedarwood
