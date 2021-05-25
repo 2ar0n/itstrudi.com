@@ -7,7 +7,7 @@ description: Order beautiful hard soap bars, handmade from natural and vegan ing
 
 <div class="flex justify-center flex-wrap p-5">
     <!-- https://stackoverflow.com/questions/45651759/is-there-a-way-to-sort-lists-in-jekyll-by-two-fields -->
-    {% assign grouped_as_available_soldout = site.data.season3.soaps | group_by: 'sold_out'%}
+    {% assign grouped_as_available_soldout = site.data.season3.soaps | group_by: 'sold_out' | sort: 'sold_out' | reverse %}
     {% for group in grouped_as_available_soldout %}
         {% for item in group.items %}
         <div class="max-w-sm rounded overflow-hidden shadow-lg my-2 m-5 mt-12 bg-white bg-opacity-75 transition duration-500 ease-in-out transform group hover:scale-110">
