@@ -126,7 +126,7 @@ soaps:
           - toning
 
     - name: Eucalyptus
-      sold_out: false
+      sold_out: true
       description: You just can't go wrong with Eucalyptus! Such a comforting scent with versatile properties. While eucalyptus essential oil often used to fight a cold, it's also super cooling and sooting, when you're in need to wind down at the end of the day and is known to reduce inflammation on the skin too!
       ingredients:
           - Eucalyptus Essential Oil
