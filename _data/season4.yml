@@ -1,34 +1,35 @@
 soaps:
-    - name: Petitgrain
-      sold_out: true
-      description: "Petitgrain is one of my absolute favorite scent: so fresh and citrusy yet woody and deep at the same time. It is known for its calming properties in aromatherapy and paired with rhassoul clay and licorice root, both known for their antibaceterial and anti-inflammatory properties, it makes this soap the perfect combo not only for tired and blemish-prone skin but for your hair too!"
+    - name: Jupiter
+      sold_out: false
+      description: "Well.. what not to say about Jupiter! Not only it's the biggest planet in our system, but in ancient mythology it's also the god of the sky and thunder! Just that! Well let's say that if you don't feel godly and powerful with this soap, then I'm out!"
       ingredients:
-          - Petitgrain Essential Oil
-          - Rhassoul Clay
-          - Licorice Root
-          - Cacao Butter
-      suitability: Blemish prone skin, hair, body, face
-      picture: 1
+          - Neroli
+          - Ylang-Ylang
+          - Frankincense
+          - Red Clay
+          - Rhassoul
+      suitability: all skin type, body, face, hair
+      picture: 22
       tags:
-          - citrusy
-          - anti-stress
+          - floral
+          - soothing
 
-    - name: Teatree
-      sold_out: true
+    - name: Mercury
+      sold_out: false
       description: With its antifungal and antibacterial properties, you can't go wrong with teatree when in need of a deep cleanse! The poopyseed will give you an extra exfoliation, great for daily use on your hands, but keep it to 2-3 times a week on your body for optimal gentleness - your skin will thank you!
       ingredients:
-          - Tea Tree Essential Oil
-          - Spirulina Powder
-          - Poppyseeds
-          - Sweet Almond oil
-      suitability: Greasy skin, exfoliating, body
-      picture: 4
+          - Geranium 
+          - Vetiver
+          - Activated Charcoal
+          - Licorice root
+      suitability: all skin type, body, face, hair
+      picture: 19
       tags:
-          - aromatic
-          - exfoliating
+          - Floral
+          - woody
 
-    - name: CedarAtlas
-      sold_out: true
+    - name: Saturne
+      sold_out: false
       description: Cedar Atlas Essential Oil combined with activated charcoal is the perfect combination against cellulite or oily & acne prone skin. The scent of cedar atlas is a complex blend of woody yet sweet aroma for a grounding and balancing result, that will please anyone looking for something a little bit out of the ordinary 
       ingredients:
           - Cedar Atlas Essential Oil
@@ -36,12 +37,12 @@ soaps:
           - Shea Butter
           - Sweet Almond Oil
       suitability: All skin types, acne prone skin, body, face, hair
-      picture: 7
+      picture: 16
       tags:
           - woody
           - detoxifying
 
-    - name: Neutral Vanilla
+    - name: Mars
       sold_out: false
       description: This soap has everyhting (except the scent!) it's is super bubbly, neutral & soft while gently exfolianting for the skin. It's perfect of anyone sensitive to strong scents and just looking for a natural soap to pamper the skin. 
       ingredients:
@@ -50,13 +51,13 @@ soaps:
           - White Clay
           - Mango Butter
       suitability: All skin types, exfoliating, body
-      picture: 10
+      picture: 13
       tags:
           - No Scent
           - exfoliating
 
-    - name: Geranium
-      sold_out: true
+    - name: Neptune
+      sold_out: false
       description: This soap is quite literally a gentle caress with a rose petal on your skin, not only does it smell delicious (like you've stepped in a rose garden in full bloom), but it's also perfect for more mature and sensitive skin. Geranium essential oil is soothing and calming (looking at ya skin redness!) and pink clay is known for its properties on skin elasticity and cell renewal! Did I mention you can use it on your hair too??  
       ingredients:
           - Geranium Essential Oil
@@ -64,13 +65,13 @@ soaps:
           - Sweet Almond Oil
           - Castor Oil
       suitability: Mature skin, sensitive skin, body, face,hair
-      picture: 13
+      picture: 10
       tags:
           - Flowery
           - Soothing
 
-    - name: Spearmint
-      sold_out: true
+    - name: Uranus
+      sold_out: false
       description: Mirror, mirror on the wall, who is the freshest of them all??? Well it sure must be me when I shower with this one, cause it feels like applying toothpaste all over the body (but in a good way..?) This one is my absolute go-to soap for my morning or post work-out shower, when I want to wake-up and/or feel super refreshed.
       ingredients:
           - Spearmint Essential Oil
@@ -78,13 +79,13 @@ soaps:
           - Shea Butter
           - Sweet Almond Oil
       suitability: All skin types, body, face, hair
-      picture: 16
+      picture: 7
       tags:
           - Fresh
           - Energising
 
-    - name: Lavender
-      sold_out: true
+    - name: Pluto
+      sold_out: false
       description: Does lavender even need an introduction still? It's THE ultimate traditional scent for the artisanal soap, and with reasons! It smells really good, it's super soothing and so soft on the skin that you can't go wrong with it! Paired with red clay, known for its soothing properties, it's a great blend for tired skin!  
       ingredients:
           - Coffee Grounds
@@ -92,12 +93,12 @@ soaps:
           - Red Clay
           - Castor Oil
       suitability: All skin types, exfoliating, body
-      picture: 19
+      picture: 4
       tags:
           - floral
           - exfoliating
 
-    - name: DishSoap
+    - name: Venus
       sold_out: false
       description: Well who said you can't pamper your plates too? This soap is extra extra bubbly to give your dishes the deep cleanse. It's a great alternative for a cleaner dishsoap in your kitchen, being entirely biodegradable with no extra plastic packaging. Being a solid soap, it also ensures you use just the right amount for your daily dishwashing session and will thus last much longer than its liquid soap counterpart! 
       ingredients:
@@ -106,66 +107,10 @@ soaps:
           - Coconut oil
           - Sunflower oil
       suitability: Pots, pans, glasses & co!
-      picture: 22
+      picture: 1
       tags:
           - Citrusy
           - Dishes
 
-    - name: Cardamom
-      sold_out: true
-      description: Okokokk, I'll admit it, cardamom is kind of my guilty pleasure (although is there really something to feel guilty about..?) but if I could, I'd truly use it everywhere! So I'm a little bias here when it comes to say all the great things about this soap... BUT in all fairness, cardamom does smell amazing and it also great for sensitive and mature skin as well as hair! - so maybe I'm right to put it everwhere after all..?
-      ingredients:
-          - Cardamom Essential Oil
-          - Sweet Almond Oil
-          - Cacao Butter
-          - Red Clay
-      suitability: Mature skin, sensitive skin, body, hair, face
-      picture: 25
-      tags:
-          - Spicy
-          - toning
 
-    - name: Eucalyptus
-      sold_out: true
-      description: You just can't go wrong with Eucalyptus! Such a comforting scent with versatile properties. While eucalyptus essential oil often used to fight a cold, it's also super cooling and sooting, when you're in need to wind down at the end of the day and is known to reduce inflammation on the skin too!
-      ingredients:
-          - Eucalyptus Essential Oil
-          - Shea Butter
-          - Olive oil
-          - Green Clay
-      suitability: All skin types, body, hair, face
-      picture: 28
-      tags:
-          - Fresh
-          - invigorating
-
-    - name: Lemongrass
-      sold_out: true
-      description: This soap is quite literally the little ray of sunshine we all desperately need right now (I mean, what the heck is this month of May??), as both lemongrass essential oil and licorice root are known for their brightening benefits! Combined with the gentle exfoliation from the raspberry seeds, this soap will pamper your tired skin and leave you feeling refreshed.
-      ingredients:
-          - Lemongrass Essential Oil
-          - Licorice Root
-          - Raspberry Seed
-          - Cocoa Butter
-      suitability: All skin types, exfoliating
-      picture: 31
-      tags:
-          - citrusy
-          - exfoliating
-
-    - name: Trudifetti
-      sold_out: true
-      description: Hey! Did I tell you Trudi is celebrating its first birthday this May..?? Well to celebrate this special occasion, I created this very unique soap with all my favorite scents and some soap's confetti from previous seasons! I started Trudi to reduce plastic packaging in the bathroom, so what best way to celebrate my first anniversary than to upcycle soap to make a new funky one that smell delicious?
-      ingredients:
-          - Bergamote
-          - Cedarwood
-          - Chamomile
-          - Sandalwood
-          - Vetiver
-          - Ylang-ylang
-      suitability: All skin types, exfoliating
-      picture: 34
-      tags:
-          - relaxing
-          - HAPPY BIRTHDAY!
 
