@@ -58,7 +58,7 @@ soaps:
 
     - name: Neptune
       sold_out: false
-      description: I'm literally feeling relaxed just by looking at this planet, so wait 'til you try this soap! Known for its calming and regenerating effects, the scents of Hô Wood and Patchouli will let you dream you've landed on Neptune!"
+      description: I'm literally feeling relaxed just by looking at this planet, so wait 'til you try this soap! Known for its calming and regenerating effects, the scents of Hô Wood and Patchouli will let you dream you've landed on Neptune!
       ingredients:
           - Patchouli
           - Hô Wood
@@ -70,7 +70,7 @@ soaps:
 
     - name: Uranus
       sold_out: false
-      description: I'll be honest... Uranus looks like a delicious peppermint gummy ball to me.. So there you have it! A simple yet delicious Peppermint soap, right in time for summer when you want to feel refreshed!"
+      description: I'll be honest... Uranus looks like a delicious peppermint gummy ball to me.. So there you have it! A simple yet delicious Peppermint soap, right in time for summer when you want to feel refreshed!
       ingredients:
           - Peppermint
           - Blue Clay
@@ -82,7 +82,7 @@ soaps:
 
     - name: Pluto
       sold_out: false
-      description: I know this one is controversial... But planet or not planet though, Pluto is mysterious and get people talking... If you're in need of a little mystery, this woody and deep smell is just for you!"
+      description: I know this one is controversial... But planet or not planet though, Pluto is mysterious and get people talking... If you're in need of a little mystery, this woody and deep smell is just for you!
       ingredients:
           - Cedar Atlas
           - Black pepper
@@ -96,7 +96,7 @@ soaps:
 
     - name: Venus
       sold_out: false
-      description: "Goddess of love and beauty"! Not an easy task to create a scent that illustrate love... But it had to be a subtle combination of comfort, surprise and punch!"
+      description: "Goddess of love and beauty\"! Not an easy task to create a scent that illustrate love... But it had to be a subtle combination of comfort, surprise and punch!"
       ingredients:
           - Geranium
           - Spearmint
