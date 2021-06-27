@@ -70,7 +70,7 @@ soaps:
 
     - name: Uranus
       sold_out: false
-      description: 
+      description: I'll be honest... Uranus looks like a delicious peppermint gummy ball to me.. So there you have it! A simple yet delicious Peppermint soap, right in time for summer when you want to feel refreshed!"
       ingredients:
           - Peppermint
           - Blue Clay
@@ -82,31 +82,32 @@ soaps:
 
     - name: Pluto
       sold_out: false
-      description: Does lavender even need an introduction still? It's THE ultimate traditional scent for the artisanal soap, and with reasons! It smells really good, it's super soothing and so soft on the skin that you can't go wrong with it! Paired with red clay, known for its soothing properties, it's a great blend for tired skin!  
+      description: I know this one is controversial... But planet or not planet though, Pluto is mysterious and get people talking... If you're in need of a little mystery, this woody and deep smell is just for you!"
       ingredients:
-          - Coffee Grounds
-          - Lavender Essential Oil
-          - Red Clay
-          - Castor Oil
-      suitability: All skin types, exfoliating, body
+          - Cedar Atlas
+          - Black pepper
+          - Vetiver
+          - Black Clay
+          - Pink Clay
+      suitability: All skin types, face, body, hair
       picture: 4
       tags:
-          - floral
-          - exfoliating
+          - woody
 
     - name: Venus
       sold_out: false
-      description: Well who said you can't pamper your plates too? This soap is extra extra bubbly to give your dishes the deep cleanse. It's a great alternative for a cleaner dishsoap in your kitchen, being entirely biodegradable with no extra plastic packaging. Being a solid soap, it also ensures you use just the right amount for your daily dishwashing session and will thus last much longer than its liquid soap counterpart! 
+      description: "Goddess of love and beauty"! Not an easy task to create a scent that illustrate love... But it had to be a subtle combination of comfort, surprise and punch!"
       ingredients:
-          - Rosemary Essential Oil
-          - Lemon Essential Oil
-          - Coconut oil
-          - Sunflower oil
-      suitability: Pots, pans, glasses & co!
+          - Geranium
+          - Spearmint
+          - Lemongrass
+          - Red Clay
+          - Blue Clay
+      suitability: All skin types, face, body, hair
       picture: 1
       tags:
-          - Citrusy
-          - Dishes
+          - Floral
+          - Fresh
 
 
 
