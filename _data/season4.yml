@@ -9,7 +9,7 @@ soaps:
           - Red Clay
           - Rhassoul
       suitability: all skin type, body, face, hair
-      picture: 22
+      picture: 1
       tags:
           - floral
           - soothing
@@ -23,7 +23,7 @@ soaps:
           - Activated Charcoal
           - Licorice root
       suitability: all skin type, body, face, hair
-      picture: 19
+      picture: 4
       tags:
           - Floral
           - woody
@@ -37,7 +37,7 @@ soaps:
           - Rosewood
           - Activated Charcoal
       suitability: All skin types, blemish prone skin, body, face, hair
-      picture: 16
+      picture: 7
       tags:
           - floral
           - aromatic
@@ -51,7 +51,7 @@ soaps:
           - Licorice Root
           - Pink Clay
       suitability: All skin types, blemish prone skin, body, face, hair
-      picture: 13
+      picture: 10
       tags:
           - Spicy
           - Citrusy
@@ -64,7 +64,7 @@ soaps:
           - Hô Wood
           - Grey Clay
       suitability: All skin types, mature skin, body, face,hair
-      picture: 10
+      picture: 13
       tags:
           - Floral
 
@@ -75,7 +75,7 @@ soaps:
           - Peppermint
           - Blue Clay
       suitability: All skin types, body, face, hair
-      picture: 7
+      picture: 16
       tags:
           - Fresh
           - aromatic
@@ -90,7 +90,7 @@ soaps:
           - Black Clay
           - Pink Clay
       suitability: All skin types, face, body, hair
-      picture: 4
+      picture: 19
       tags:
           - woody
 
@@ -104,7 +104,7 @@ soaps:
           - Red Clay
           - Blue Clay
       suitability: All skin types, face, body, hair
-      picture: 1
+      picture: 22
       tags:
           - Floral
           - Fresh
