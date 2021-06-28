@@ -1,7 +1,7 @@
 soaps:
     - name: Jupiter
       sold_out: false
-      description: "Well.. what not to say about Jupiter! Not only it's the biggest planet in our system, but in ancient mythology it's also the god of the sky and thunder! Just that! Well let's say that if you don't feel godly and powerful with this soap, then I'm out!"
+      description: "Well.. what not to say about Jupiter! Not only it is the biggest planet in our system, but in Roman mythology it's also the god of the sky and thunder! Just that! Well let's say that if you don't feel godly and powerful with this soap, I'm out!"
       ingredients:
           - Neroli
           - Ylang-Ylang
@@ -16,7 +16,7 @@ soaps:
 
     - name: Mercury
       sold_out: false
-      description: "It's getting hot in here! Getting a little bit too close to the sun aren't we not?? Well careful with sunburns my dears! But if you burn a little too hot like mercury, this soap should have a calming effect on your skin!"
+      description: "It's getting hot in here! Getting a little bit too close to the sun aren't we ?? Well careful with sunburns my dears! But if you burn a little too much like mercury, this soap should have a calming effect on your skin!"
       ingredients:
           - Geranium 
           - Vetiver
@@ -30,7 +30,7 @@ soaps:
 
     - name: Saturne
       sold_out: false
-      description: "Don't we all want to stand out a little bit like Saturn and its beautiful rings?? Let your inner Saturn shine and pamper your skin with this soap so that everyone can envy you a little too - plus it smells divine!" 
+      description: "Don't we all want to stand out a little bit like Saturn and its beautiful rings?? Let your inner Saturn shine and pamper your skin with this soap so that everyone can envy you too - plus it smells divine!" 
       ingredients:
           - Sage
           - Tea Tree
@@ -44,7 +44,7 @@ soaps:
 
     - name: Mars
       sold_out: false
-      description: A scent powerful and spicy like the red planet, but let be reassured that you won't find any martian here - but maybe they'll become a loyal customers though! 
+      description: A scent powerful and spicy like the red planet, but let be reassured that you won't find any martian here - but maybe they'll become loyal customers though! 
       ingredients:
           - Mandarine
           - Cinammon
@@ -58,7 +58,7 @@ soaps:
 
     - name: Neptune
       sold_out: false
-      description: I'm literally feeling relaxed just by looking at this planet, so wait 'til you try this soap! Known for its calming and regenerating effects, the scents of Hô Wood and Patchouli will let you dream you've landed on Neptune!
+      description: I'm literally feeling relaxed just by looking at this planet, so wait 'til you try this soap! Known for its calming and regenerating effects, the scents of Hô Wood and Patchouli will make you feel like you've landed on Neptune!
       ingredients:
           - Patchouli
           - Hô Wood
@@ -96,7 +96,7 @@ soaps:
 
     - name: Venus
       sold_out: false
-      description: "Goddess of love and beauty\"! Not an easy task to create a scent that illustrate love... But it had to be a subtle combination of comfort, surprise and punch!"
+      description: "Goddess of love and beauty\"! Not an easy task to create a scent that illustrates love... But it had to be a subtle combination of comfort, surprise and punch!"
       ingredients:
           - Geranium
           - Spearmint
