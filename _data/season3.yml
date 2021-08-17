@@ -42,7 +42,7 @@ soaps:
           - detoxifying
 
     - name: Neutral Vanilla
-      sold_out: false
+      sold_out: true
       description: This soap has everyhting (except the scent!) it's is super bubbly, neutral & soft while gently exfolianting for the skin. It's perfect of anyone sensitive to strong scents and just looking for a natural soap to pamper the skin. 
       ingredients:
           - Vanilla essential oil (no scent)
@@ -98,7 +98,7 @@ soaps:
           - exfoliating
 
     - name: DishSoap
-      sold_out: false
+      sold_out: true
       description: Well who said you can't pamper your plates too? This soap is extra extra bubbly to give your dishes the deep cleanse. It's a great alternative for a cleaner dishsoap in your kitchen, being entirely biodegradable with no extra plastic packaging. Being a solid soap, it also ensures you use just the right amount for your daily dishwashing session and will thus last much longer than its liquid soap counterpart! 
       ingredients:
           - Rosemary Essential Oil
