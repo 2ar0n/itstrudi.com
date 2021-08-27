@@ -95,7 +95,7 @@ soaps:
           - woody
 
     - name: Venus
-      sold_out: false
+      sold_out: true
       description: "Goddess of love and beauty\"! Not an easy task to create a scent that illustrate love... But it had to be a subtle combination of comfort, surprise and punch!"
       ingredients:
           - Geranium
